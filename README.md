@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on .platform..
 - 📫 How to reach me ...mojisolaadenike@gmail .com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!-doctype html>--
+- ⚡ Fun fact: 
 monikk11/monikk11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
